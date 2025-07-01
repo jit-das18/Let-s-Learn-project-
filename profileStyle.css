@@ -1,0 +1,6 @@
+body{
+	background:linear-gradient(to right,blue,white);
+	display:flex;
+	position:absolute;
+	background-color:#069;
+}
